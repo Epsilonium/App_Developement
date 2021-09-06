@@ -1,4 +1,3 @@
-
 must_run = True
 
 def Addcolor():
@@ -54,7 +53,6 @@ def print_options():
     print("3: Legge til en farge \n")
     #print("4: Fjerne en farge \n")
     print("5: Avslutte")
-
 
 
 def main():
